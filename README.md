@@ -41,7 +41,7 @@
 
 ## 📫 How to Reach Me  
 - **Email:** rushabhpatel@example.com *(replace with your real email)*  
-- **LinkedIn:** [linkedin.com/in/rushabhpatel](https://linkedin.com) *(replace with your real profile link)*  
+- **LinkedIn:** https://www.linkedin.com/in/rushabh1224/
 - **GitHub:** [@rushabh782](https://github.com/rushabh782)
 
 ---
