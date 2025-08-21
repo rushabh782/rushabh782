@@ -19,10 +19,10 @@
 ---
 
 ## 🛠 Tech Stack  
-**Languages:** Java  
+**Languages:** Java,Javascript  
 **Frameworks & Tools:** Spring Boot, Spring MVC  
-**Databases:** MySQL  
-**Others:** Git, GitHub, REST APIs
+**Databases:** MySQL,Firebase  
+**Others:** Git, GitHub, REST APIs, Flutter
 
 ---
 
